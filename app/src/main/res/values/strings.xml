@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Glowify</string>
+    <string name="skin_care_activity_title">Skin Care Activity</string>
+    <string name="dull_skin_instructions">
+    1. Cleanse your face twice daily using a gentle cleanser to remove dirt and impurities.\n\n
+    2. Exfoliate regularly to remove dead skin cells and promote cell turnover.\n\n
+    3. Use a moisturizer suitable for your skin type to keep your skin hydrated.\n\n
+    4. Apply sunscreen daily to protect your skin from harmful UV rays.\n\n
+    5. Incorporate antioxidants into your skincare routine to combat free radical damage.\n\n
+    6. Stay hydrated by drinking plenty of water throughout the day.\n\n
+    7. Get enough sleep to allow your skin to regenerate and repair itself.\n\n
+    8. Avoid smoking and limit alcohol intake as they can contribute to dull skin.\n\n
+    9. Eat a balanced diet rich in fruits, vegetables, and omega-3 fatty acids to nourish your skin from the inside out.\n
+</string>
+
+    <string name="normal_skin_instructions">
+    1. Cleanse your face with a gentle cleanser twice daily.\n\n
+    2. Moisturize your skin with a lightweight, non-greasy moisturizer.\n\n
+    3. Use sunscreen with SPF 30 or higher every morning.\n\n
+    4. Exfoliate your skin 1-2 times a week to remove dead skin cells.\n\n
+    5. Eat a balanced diet rich in fruits, vegetables, and water.\n\n
+    6. Get enough sleep and manage stress levels for healthy skin.\n\n
+    7. Avoid using harsh skincare products.\n
+</string>
+
+    <string name="dry_skin_instructions">
+    1. Use a gentle, creamy cleanser to cleanse your skin without stripping away natural oils.\n\n
+    2. Apply a rich, hydrating moisturizer immediately after cleansing to lock in moisture.\n\n
+    3. Use a humidifier in dry environments to add moisture to the air.\n\n
+    4. Limit exposure to hot water and harsh soaps, as they can further dry out your skin.\n\n
+    5. Exfoliate your skin 1-2 times a week to remove dead skin cells and promote cell turnover.\n\n
+    6. Avoid prolonged exposure to harsh weather conditions, such as wind and cold.\n\n
+    7. Drink plenty of water throughout the day to keep your skin hydrated from the inside out.\n\n
+    8. Use a sunscreen with moisturizing properties to protect your skin from UV rays.\n
+</string>
+
+    <string name="oily_skin_instructions">
+    1. Cleanse your face with a gentle, foaming cleanser twice daily to remove excess oil.\n\n
+    2. Use an alcohol-free toner to help control oil production and minimize pores.\n\n
+    3. Apply a lightweight, oil-free moisturizer to keep your skin hydrated without clogging pores.\n\n
+    4. Use oil-absorbing sheets throughout the day to blot away excess oil.\n\n
+    5. Exfoliate your skin 2-3 times a week to remove dead skin cells and prevent breakouts.\n\n
+    6. Use a clay mask once a week to deep clean pores and control oiliness.\n\n
+    7. Avoid touching your face throughout the day to minimize transferring oil and bacteria.\n\n
+    8. Use makeup products labeled as oil_free to prevent pore clogging.\n\n
+    9. Limit consumption of greasy and fried foods, as they can contribute to excess oil production.\n\n
+    10. Drink plenty of water to stay hydrated and help regulate oil production.\n
+</string>
+
+    <string name="sensitive_skin_instructions">
+    1. Cleanse your face with a gentle, fragrance-free cleanser twice daily.\n\n
+    2. Avoid using products containing alcohol, fragrances, and harsh chemicals.\n\n
+    3. Choose skincare products labeled as gentle on acne-prone skin.\n\n
+    4. Patch test new products on a small area of your skin before applying them to your face.\n\n
+    5. Moisturize your skin with a gentle, non-irritating moisturizer.\n\n
+    6. Protect your skin from sun exposure by wearing sunscreen with SPF 30 or higher.\n\n
+    7. Avoid hot water and long showers, as they can strip your skin of its natural oils.\n\n
+    8. Limit exposure to extreme temperatures and harsh weather conditions.\n\n
+    9. Be cautious with exfoliation and limit it to once a week with a gentle scrub.\n\n
+    10. Consult a dermatologist if you experience persistent skin irritation or reactions.\n
+</string>
+
+    <string name="combination_skin_instructions">
+    1. Cleanse your face with a gentle, pH-balanced cleanser twice daily.\n\n
+    2. Use a lightweight moisturizer on dry areas and a mattifying moisturizer on oily areas.\n\n
+    3. Apply sunscreen with SPF 30 or higher to protect your skin from sun damage.\n\n
+    4. Use a targeted treatment for acne-prone areas, if necessary.\n\n
+    5. Exfoliate your skin 2-3 times a week to remove dead skin cells.\n\n
+    6. Avoid using harsh products that can strip your skin of its natural oils.\n\n
+    7. Use a hydrating mask on dry areas and a clay mask on oily areas.\n\n
+    8. Keep your skincare routine simple and avoid using too many products.\n\n
+    9. Stay hydrated by drinking plenty of water throughout the day.\n\n
+    10. Consult a dermatologist if you experience persistent skin issues.\n
+</string>
+
+    <string name="acne_prone_skin_instructions">
+    1. Cleanse your face with a gentle, acne-friendly cleanser twice daily.\n\n
+    2. Use products containing salicylic acid or aloe vera to help treat and prevent acne.\n\n
+    3. Avoid touching or picking at your acne to prevent further irritation and scarring.\n\n
+    4. Moisturize your skin with a lightweight, oil-free moisturizer.\n\n
+    5. Apply sunscreen with SPF 30 or higher to protect your skin from sun damage.\n\n
+    6. Use a clay mask once a week to help absorb excess oil and unclog pores.\n\n
+    7. Avoid using heavy makeup and opt for acne-safe or oil-free formulas.\n\n
+    8. Wash your pillowcases and face towels regularly to prevent bacteria buildup.\n\n
+    9. Maintain a healthy diet rich in fruits, vegetables, and whole grains.\n\n
+    10. Consult a dermatologist for personalized treatment options if acne persists.\n
+</string>
+
+    <string name="sun_damaged_skin_instructions">
+    1. Protect your skin from further sun damage by wearing sunscreen with SPF 30 or higher daily.\n\n
+    2. Use products containing antioxidants like vitamin C and E to repair and protect your skin.\n\n
+    3. Apply a moisturizer with hyaluronic acid to help hydrate and plump up sun-damaged skin.\n\n
+    4. Use a gentle scrub to remove dead skin cells and promote skin renewal.\n\n
+    5. Consider using products with retinoids to stimulate collagen production and improve skin texture.\n\n
+    6. Avoid prolonged sun exposure, especially during peak hours, and wear protective clothing and hats.\n\n
+    7. Drink plenty of water to keep your skin hydrated from the inside out.\n\n
+    8. Consult a dermatologist for personalized treatment options if you experience severe sun damage.\n
+</string>
+
+
+</resources>

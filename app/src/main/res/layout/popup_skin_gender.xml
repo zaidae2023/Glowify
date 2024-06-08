@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Add instructions or labels for skin type input -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your skin type:"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"/>
+
+    <!-- EditText for skin type input -->
+    <EditText
+        android:id="@+id/etSkinType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your skin type"/>
+
+    <!-- Add instructions or labels for gender input -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your gender:"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"/>
+
+    <!-- EditText for gender input -->
+    <EditText
+        android:id="@+id/etGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your gender"
+        android:minHeight="48dp" />
+
+    <!-- OK Button -->
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK"/>
+</LinearLayout>
